@@ -1,0 +1,7 @@
+c:\users\kevin.villar\documents\visual studio 2017\Projects\DRY_Example3\DRY_Example3\bin\Debug\DRY_Example3.exe.config
+c:\users\kevin.villar\documents\visual studio 2017\Projects\DRY_Example3\DRY_Example3\bin\Debug\DRY_Example3.exe
+c:\users\kevin.villar\documents\visual studio 2017\Projects\DRY_Example3\DRY_Example3\bin\Debug\DRY_Example3.pdb
+c:\users\kevin.villar\documents\visual studio 2017\Projects\DRY_Example3\DRY_Example3\obj\Debug\DRY_Example3.csprojResolveAssemblyReference.cache
+c:\users\kevin.villar\documents\visual studio 2017\Projects\DRY_Example3\DRY_Example3\obj\Debug\DRY_Example3.csproj.CoreCompileInputs.cache
+c:\users\kevin.villar\documents\visual studio 2017\Projects\DRY_Example3\DRY_Example3\obj\Debug\DRY_Example3.exe
+c:\users\kevin.villar\documents\visual studio 2017\Projects\DRY_Example3\DRY_Example3\obj\Debug\DRY_Example3.pdb
