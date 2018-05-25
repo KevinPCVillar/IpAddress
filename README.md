@@ -1,2 +1,2 @@
 # IpAddress
-Small program to validate a Ip Address and return his classification.
+Small program to validate an Ip Address and return his classification.
